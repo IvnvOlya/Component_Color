@@ -17,7 +17,7 @@
 #### Загрузка проекта на локальную машину</h4>
 
 ```
-git clone https://github.com/IvnvOlya/Component_Color.git
+git clone https://github.com/IvnvOlya/Component_test.git
 ```
 
 ### 2. Установка зависимостей
