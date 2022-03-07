@@ -5,9 +5,9 @@
 :tada: [Демо](https://component-test.hostman.site/)
 
 :large_blue_circle: Переиспользуемые компоненты
-- SettingStyle.js
 - ListSettingStyle.js
 - SettingColors.js
+- Modal.js
 
 :large_blue_circle: API
 - props
