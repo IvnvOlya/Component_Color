@@ -1,0 +1,30 @@
+.HeaderStyle {
+  padding: 0 14px 0 12px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.heading {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #333333;
+}
+.link_ok {
+  padding-right: 18px;
+}
+.description {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #999999;
+    padding-bottom: 12px;
+    text-align: start;
+    border-bottom: 1px solid #EAEAEA;
+  }
+.description_top{
+  padding-top: 8px;
+}

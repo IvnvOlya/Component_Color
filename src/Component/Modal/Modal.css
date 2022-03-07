@@ -1,0 +1,30 @@
+.Modal {
+  width: 200px;
+  height: 200px;
+}
+.Picker {
+  background: #ffffff;
+  position: absolute;
+  top: 28%;
+  right: 40%;
+  border-radius: 6px;
+  box-shadow: rgb(0 0 0 / 30%) 0px 0px 2px, rgb(0 0 0 / 30%) 0px 4px 8px;
+}
+.title_block {
+  font-size: 16px;
+  line-height: 20px;
+  color: #333333;
+  padding: 10px 12px;
+  display: flex;
+  justify-content: space-between;
+}
+.picker_close,
+.picker_ok {
+  background: none;
+}
+.picker_ok {
+  padding-right: 8px;
+}
+.chrome-picker {
+  width: 200px !important;
+}

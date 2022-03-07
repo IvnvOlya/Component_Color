@@ -1,0 +1,80 @@
+#SettingStyle {
+  padding: 12px 0;
+  max-width: 300px;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 1px rgba(15, 15, 15, 0.05),
+    0px 2px 8px rgba(15, 15, 15, 0.15);
+  border-radius: 6px;
+  height: 290px;
+  margin: 0 auto;
+  border: 1px solid #eaeaea;
+}
+.subtitle{
+  text-transform: lowercase;
+  padding: 16px 0 8px 12px;
+  text-align: start;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 15px;
+  color: #333333;
+}
+.list{
+
+}
+
+button {
+  border: none;
+  background-color: none;
+}
+.colors {
+  padding-top: 16px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.08em;
+  color: #333333;
+  text-align: start;
+}
+.title_list {
+  text-transform: lowercase;
+  padding: 16px 0 7px 12px;
+  text-align: start;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 15px;
+  color: #333333;
+}
+
+.list_item_link {
+  display: flex;
+  /* padding: 7px 0 0; */
+}
+.list_item_text {
+  padding-left: 6px;
+}
+.list_item_heading {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #333333;
+  text-align: start;
+}
+.list_item_description {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #999999;
+}
+.line {
+  border-bottom: 1px solid #999999;
+}
+.line{
+  padding-bottom: 12px;
+  margin: 0 12px;
+  border-bottom: 1px solid #EAEAEA;
+}
